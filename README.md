@@ -6,6 +6,8 @@
 
 <br/>
 
+![Rapikan Demo](preview.gif)
+
 Are you tired of installing 15 different formatter extensions, battling with conflicting settings, and manually configuring environment paths for every language you use?
 
 Meet **Rapikan** — the only VS Code formatter extension you will ever need. Designed for modern developers, Rapikan provides out-of-the-box, standardized code formatting for over 50 programming languages. Whether you are coding in Python, Java, PHP, C++, React, or Rust, Rapikan automatically manages the underlying formatting engines so you can focus on writing code.
@@ -135,26 +137,32 @@ def     messy_func():
 
 ## 💼 Pricing Philosophy & Commercial License
 
-Rapikan operates on a strict dual-license model:
+**Honestly, I've survived on free tools since junior high**, so I want to give back to the community. Therefore, Rapikan operates on a transparent dual-license model:
 
 **1. Personal & Open Source (100% FREE)**
-Rapikan is strictly 100% FREE with no limitations for personal use, students, and open-source projects.
+Rapikan is strictly **100% FREE** with no feature locks for personal use, students, hobbyists, and open-source projects.
+
+_The 500 Files Milestone:_ After Rapikan formats 500 files for you, the status bar badge will quietly change to "Trial". **It does NOT lock your features.** It just serves as a polite reminder of the commercial licensing terms.
 
 **2. Commercial Pro License**
-If you are using Rapikan within a company, corporate environment, or for paid client work, you are legally required to purchase a Pro License ($9/month or $49/year per seat).
+A Commercial Pro License ($9/month or $49/year per seat) is legally REQUIRED if you are using Rapikan within a company that meets **ANY** of the following criteria:
 
-Tech ecosystems constantly change, and this recurring support allows me to maintain these 50+ languages long-term. Your company saves countless hours of setup time, and you directly support a solo developer's work.
+- Has more than five (5) employees.
+- Has an annual gross revenue exceeding $50,000 USD.
+- Has received external venture funding or angel investment.
+
+Tech ecosystems constantly change, and this recurring support allows me to maintain these 50+ underlying binaries long-term. Your company saves countless hours of setup time, and you directly support a solo developer's work.
 
 _(Note: Our payment gateway is currently under final verification. Commercial licenses will be available for purchase very soon!)_
 
-### Want to support the project?
+### 💖 Just want to support the project?
 
-If you are a free user who finds Rapikan helpful and wants to support my work without purchasing a commercial license:
+If you are a free/individual user who finds Rapikan helpful and wants to support my work without purchasing a commercial license, every tip keeps the development alive!
 
-- [Sponsor on Ko-fi](https://ko-fi.com/nabilaba)
-- [Support via Saweria (QRIS/GoPay)](https://saweria.co/nabilaba)
+- [Sponsor on Ko-fi (Global)](https://www.google.com/search?q=https://ko-fi.com/nabilaba)
+- [Support via Saweria (Local QRIS/GoPay)](https://saweria.co/nabilaba)
 
-Visit [rapikan.nabilaba.my.id](https://rapikan.nabilaba.my.id) to learn more.
+Visit [rapikan.nabilaba.my.id](https://rapikan.nabilaba.my.id) to read the full EULA and learn more.
 
 ---
 
