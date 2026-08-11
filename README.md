@@ -1,12 +1,11 @@
 <div align="center">
   <h1>✨ Rapikan - Universal Code Formatter ✨</h1>
   <p><b>The Ultimate All-in-One Formatter for VS Code. Zero-config, Auto-downloading, and blazing fast formatting for 50+ languages without the extension bloat.</b></p>
-
+  <br/>
+  <img src="./preview.gif" width="100%" alt="Rapikan Demo">
 </div>
 
 <br/>
-
-![Rapikan Demo](preview.gif)
 
 Are you tired of installing 15 different formatter extensions, battling with conflicting settings, and manually configuring environment paths for every language you use?
 
