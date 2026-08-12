@@ -112,7 +112,8 @@ const messyMatrix = [
 ];
 /* rapikan-on */
 
-const a = 1; // rapikan-ignore
+// rapikan-ignore
+const  a  =  1;
 ```
 
 **Python / Shell / YAML (Hash-Style)**
@@ -158,7 +159,7 @@ _(Note: Our payment gateway is currently under final verification. Commercial li
 
 If you are a free/individual user who finds Rapikan helpful and wants to support my work without purchasing a commercial license, every tip keeps the development alive!
 
-- [Sponsor on Ko-fi (Global)](https://www.google.com/search?q=https://ko-fi.com/nabilaba)
+- [Sponsor on Ko-fi (Global)](https://ko-fi.com/nabilaba)
 - [Support via Saweria (Local QRIS/GoPay)](https://saweria.co/nabilaba)
 
 Visit [rapikan.nabilaba.my.id](https://rapikan.nabilaba.my.id) to read the full EULA and learn more.
