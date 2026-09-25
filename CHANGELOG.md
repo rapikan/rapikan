@@ -2,6 +2,20 @@
 
 All notable changes to the "Rapikan" extension will be documented in this file.
 
+## [1.1.1] - 2026-09-25
+
+### Added
+
+- **Rust:** Added `edition=2021` flag to the `rustfmt` configuration to properly support modern Rust syntax formatting.
+
+### Changed
+
+- **Performance:** Optimized extension activation logic (`onStartupFinished`) to improve VS Code startup times and prevent unnecessary background loading.
+
+### Fixed
+
+- **Security:** Removed code minification (`--minify`) from the build process to fully comply with VS Code Marketplace transparency and security policies regarding obfuscated code.
+
 ## [1.1.0] - 2026-08-28
 
 ### Added
